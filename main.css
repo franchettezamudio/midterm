@@ -1,0 +1,54 @@
+.section {
+
+}
+.first {
+
+}
+.second {
+  background-color: lightgrey;
+  border-style: ridge;
+  a {
+   	display: block;
+  }
+}
+.third {
+}
+.fourth {
+}
+.fifth {
+	
+}
+h1 {
+  font-size: 30px;
+  color: grey;
+}
+h3 {
+  font-size:25px;
+  text-decoration: underline;
+}
+.first_link {
+	text-decoration: none;
+}
+.second_link {
+ text-decoration: none;
+ color: blue;
+}
+.second_link:hover {
+ text-decoration: none;
+ color: red;
+}
+.pic {
+	width: 200px;
+}
+.caption {
+	width: 220px;
+}
+
+
+
+
+
+
+
+
+
