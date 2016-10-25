@@ -20,21 +20,31 @@ section .fifth {
   /*width: 500px;
   overflow: hidden;*/
   .left_side {
-   
     width: 50%;
     float: left;
+    display: inline;
     /*display: block;
     width: 250px;
     display: block;
     float: left;*/
-
+    a {
+      color: gray;
+    }
+    a:hover {
+      color: blue;
+    }
   }
   .right_side {
-    
     width: 50%;
     float: right;
+    display: inline;
 /*    display: block;*/
-
+    a {
+      color: gray;
+    }
+    a:hover {
+      color: blue;
+    }
   }
 }
 h1 {
